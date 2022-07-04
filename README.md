@@ -1,3 +1,3 @@
-# fuzzy-umbrella
+# Just Study
 Hello 
 its Ahmed(: Aptech learning (SFC)
